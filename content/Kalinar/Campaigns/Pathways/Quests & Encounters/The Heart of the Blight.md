@@ -1,7 +1,6 @@
 ---
 Campaign: Pathways
 noteType: Quest
-banner:
 banner: "![[Pasted image 20240120091558.png]]"
 banner_y: 0.09
 ---
