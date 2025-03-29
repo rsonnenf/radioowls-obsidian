@@ -1,0 +1,25 @@
+---
+Campaign: Pathways
+noteType: Session
+---
+
+Following your fight with Lord [[Donovon Ortofola|Ortofola]], [[Lovel]] told you what he could about finding Bahamut. He told you that there is  a dog-like creature living in a den, out of which seeps a red light similar to that emanating from the gem you saw on the beach near [[Bilell]]. He told you you might be able to get more information from a settlement in the Pinewood called Gavorke, but did not have much else to tell you. You finished up at the party and decided to head out in the morning to search for the creature. You said your goodbyes to [[Feril]] and Craigug, who both intended to wait with the ship until you all come back in about a week. Grubby gave Craigug a vial of crushed red and green materials before heading out, and you all began your journey. Along the way, you learned a bit more about each other. Zos knew a [[Zif]] who was like a parent to her, but after their town was attacked, he did not return. Bo has concerns that the demon that gives him his magical powers might not continue to do so if their quest requires them to continue eliminating demons and devils. He and [[Shayna Thosva|Shayna]] also had an associate of theirs disappear under mysterious circumstances. Fax escorted nobles during his time he worked for Emperor Fen. He was promised a nice retirement after a year of service, but he stopped early because he learned of the death of his wife. After exchanging stories, you came across a man in the woods named Shiki. He explains that he is a monster hunter, who apparently is hunting the same dog-like creature you seek. He says he has found some sort of cave that he thinks could be associated with the creature, and you all agree that he will accompany you in searching and killing the creature. Although he is initially concerned because he does not want to share his trophy, you calm him by telling him that he can keep the creature if he leaves the cave to you.
+
+You walk into the den. It appears to be some sort of large cave. It's damp and warm, and the red light surrounds you. Taking a look around, you see bones on the floor. Some are scattered about randomly. Others are neatly stacked in piles.
+
+You see four deer nervously gathered toward the center of the chamber. When they see you, they are startled, but when they see Shiki, they begin to yelp maddeningly. Shiki begins to laugh a deep, dark laugh. "You creatures are so trusting. Your kind practically beg me to lead you to your doom." He walks toward one of the deer and turns his back to it. He kneels down so that the back of his head is level with the deer's neck. He pulls back his cloak, and from behind Shiki's head you see the deer squeal in fear as something grabs hold of its throat. Shiki smiles throughout the ordeal, and after the deer falls to the ground, Shiki stands up and turns to see his work. As he turns, you see that where the back of his head should be is a snarling and growling wolf's face. He turns back toward you and flicks his hand. The entrance to the den closes with rock and vine. "We hunger," he says.
+
+
+In a flash, you are transported to a bleak-looking courtyard. Graves seem to dot the area here and there, and a large stairway flanks a large statue in the middle of the area. Looking southward, you see a massive dragon chained. You are struck by the awe of this dragon. The Great Bahamut. His silver scales glisten in the dancing green flames of the nearby unnatural torchlight. Bahamut's eyes are closed. He is unmoving, except for shallow breaths here and there, and even your appearance in this realm does not seem to have stirred him.
+
+Tall green flames erupt in front of you. They block your path. Despite the whoosh of the instantaneously-appearing fire, Bahamut's eyes remain closed. A voice greets you from the stairways near the statue. "You have entered my province of the Underrealm uninvited. What brings you here?"
+
+"So, you have defeated Shiki. I knew he was too bold and irresponsible to be trusted to guard this gateway. To think that the likes of you could enter my domain."
+
+"Yes, the Platinum Dragon. His ideals: honor, justice. They are anathema to our aim. The Blight approach, ever closer, to establishing a permanent conduit to your realm. When we do, our horde will flood through like water over a breached dam. The Platinum Dragon's courage, his attempt to stop us, was his undoing. I keep him here, under my watch, while the Blight continues its march toward the domination of your realm."
+
+[[Dranech]], the goddess of rot raises her hand, as if beckoning. "Bahamut certainly was a challenge to apprehend, and I intend to keep him hidden here so that we may succeed. You lot, on the other hand, are candles to be snuffed out by the storm. Insects to be crushed beneath my boot." You feel a vibration in the ground below you, and bursting out of the ground where there was once a grave appears a massive worm-like creature. "My worm will feast upon your decomposing bodies."
+
+## Tags
+___
+[[Pathways]] 

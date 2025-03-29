@@ -1,0 +1,10 @@
+---
+Campaign: Pathways
+noteType: Session
+---
+
+Despite a treacherous battle with [[Dranech]] that left [[Barnaby Baffletop|Barnaby]] unconscious and a few others rather close to death, you all defeat the goddess of rot and decomposition. After she and her minions crumbled to dust, you approached Bahamut to find that he was completely unconscious and chained up. After reading runes and an inscription, you were able to discern that touching the letters that spelled the word "unlock" dropped the magical aura of the chains and caused them to open, freeing Bahamut. You were struck by his majesty. He thanked you and told you the story of the Blight. Approximately 20 years ago, coordinating with the time that Emperor Fen took the throne, the Blight began gaining in power. As it turned out, Emperor Fen was negotiating with them. Fen wanted ultimate power, and he was willing to gain the favor of the Blight by helping them obtain what they wanted. Entry into the mortal realm through a permanent rift, which would allow them to send their hoards and take over the Overrealm. When Emperor Fen was defeated by the [[Justicars]], the Blight were nevertheless emboldened. They felt that they had obtained enough assistance from Fen and his studies in dark magic to begin creating cracks in the space between realms. They sent their minions here and there, and a few gods of the Blight were able to break through. A resistance of honorable gods opposed them, but they were hunted. Gods including Mayari, Bahamut, and Grummsh were locked away to prevent them from hindering the Blight's progress. These gods have now asked you to seek out Grummsh and free him so that these three gods can rally the remaining resistance and defeat the Blight once and for all. Bahamut gave Grubby a scale from his back to make up for his inability to turn him into a dragon, and he gave the rest of you gifts.
+
+## Tags
+___
+[[Pathways]] 

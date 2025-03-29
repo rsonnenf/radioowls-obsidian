@@ -1,0 +1,10 @@
+---
+Campaign: Pathways
+noteType: Session
+---
+
+Craigug attempted to take [[Fax Faertrin|Fax]] in, revealing that he left a noble behind while he was on his escort trips across Kalinar. That noble and her cohort were attacked and she put out a bounty on him. As you tried to reason with Craigug, you saw that Lord [[Donovon Ortofola]] led [[Lovel]] out of the hall and into a deserted hallway. You heard them beginning to argue, apparently about Lovel's giving sensitive information about Ortofola to a client. [[Barnaby Baffletop|Barnaby]] and [[Shayna Thosva|Shayna]] attempted to stop him, but Ortofola summoned a huge number of undead hounds to attack. You ran back to the entryway, and Shayna called for help. Grubby heard and led him, Fax, Craigug, and Craigug's two associates toward Shayna's voice. A huge battle broke out, but you all were able to beat back the hounds and defeat Ortofola. You learned what was probably the sensitive information Lovel provided to his client.  As a bat flew out from a cloud of dust left by Ortofola's body, you discerned that he is a Vampire. And that he apparently still lives. After the fight, Craigug attempted to take Fax in again, but Grubby emphasized the pain that Craigug had caused him by leaving home and pleaded with him to not hurt him again. Craigug relented, but his associates were adamant about completing the contract that they signed, apparently planning to turn him in to the authorities in [[Bilell]], where the noble that Fax left behind resides. Grubby convinced them to leave Fax alone by giving them 400 gold pieces and telling them that they could say the trail for Fax went cold. They agreed and informed Craigug that they could never work again, since he was apparently so emotionally compromised. After they left, Grubby reiterated how much he loved and appreciated the rest of you, his found family.
+
+## Tags
+___
+[[Pathways]] 

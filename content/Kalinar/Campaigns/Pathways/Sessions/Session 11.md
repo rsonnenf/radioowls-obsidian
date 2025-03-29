@@ -1,0 +1,10 @@
+---
+Campaign: Pathways
+noteType: Session
+---
+
+After killing off the Red Thorn members who tried to ambush you, you went to the tavern to meet with Deekek. He told you that he has work that might be interesting to you. He knew that you were looking for information and told you that, if information is what you wanted, the Red Thorn was where you could find it, given their information brokers prevalent throughout Kalinar.  He also agreed to pay you 800 gold if you would help him. He explained that he is a bounty hunter partnered with a woman named Liris. After some time separately collecting information on the Red Thorn, in accordance with a contract they had accepted, Liris returned to tell Deekek that she found an odd structure guarded by humanoid creatures she could not quite make out. Deekek told her to focus on the contract, and they retired for the evening. The next morning, however, Deekek awoke to find that Liris was gone. Deekek went to the structure Liris talked about to see if she was there and saw it for himself. It was populated by six or seven humanoid creatures, and the structure itself appeared to be glowing, but Liris was nowhere to be seen. Not wanting to get involved in something he did not think he could handle himself, he went back to town searching for adventurers who might be able to help him. That was when he saw you carrying the body of a criminal organization leader you had defeated. He knew that individuals of your experience would be able to assist, so he asked you to find Liris, who he thinks might be held by the creatures. You agreed and went to the structure, about two miles outside of town. It was a stage-like construction, built into the side of a cliff, and it was glowing red as a result of a gem that was embedded into the cliff. Two creatures stood before it. Bo sent Eric to check out the gem, and as Eric got close to it, he disappeared. You all then decided to simply ask where Liris went, and one of the creatures decided to respond in Abyssal, which Fax understood. They asked, "Who is there?" and, "Intruders? Embrace death!" before initiating an attack.
+
+## Tags
+___
+[[Pathways]] 

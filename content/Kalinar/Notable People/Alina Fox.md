@@ -1,0 +1,2 @@
+![[Alina Fox.png|500|right]]
+First Lady of [[Varnithel]]. Following the assassination attempt on her husband, Mayor [[Davyd Burnside]], she asked [[The Works In Progress]] to  deal with the Dire Clan, which have been attacking [[Varnithel]] for several months to gain influence in the region and join the [[Red Thorn]] Syndicate.

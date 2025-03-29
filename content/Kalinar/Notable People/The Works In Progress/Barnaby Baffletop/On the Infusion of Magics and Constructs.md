@@ -1,0 +1,1 @@
+A book written by [[Vomilla Baffletop|Barnaby's mother]], Vomilla, that details her discoveries in methods of infusing magic with constructs.

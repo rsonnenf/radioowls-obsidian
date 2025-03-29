@@ -1,0 +1,10 @@
+---
+Campaign: Pathways
+noteType: Session
+---
+
+In order to sneak your way into City Hall to grab invitations and sneak your names onto the list, Zos, [[Shayna Thosva|Shayna]], and Bo went to a bar near City Hall to create a distraction. You took advantage of the charged, excited atmosphere for the event that was to happen tomorrow, which was mixed with animosity between the lower and upper classes who have mingled in the bar to cause a riot between them. Shayna called a few guards from City Hall over, and when they came, [[Barnaby Baffletop|Barnaby]] teleported Grubby into the Hall. He found several blank invitations and a guest list, onto which he put your names. He also found a key in a safe that he cracked open. With your names secured on the list, the next day, you arrived at the banquet. You spoke with a Donovan [[Donovon Ortofola|Ortofola]], a dignitary from Ruie, who, other than the couple of you posing as guards, was the only other person to bring personal guards. He and Grubby had a conversation about the current political state of Kalinar before you left. Barnably found [[Lovel]], whom [[Deekek]] told you would have information about how to find Bahamut. [[Lovel]] was a pretty unpleasant individual, who seemed to view himself very importantly and highly. He barely remembered Deekek, as he was only "one link in the chain" of his information web. When Barnaby asked to speak with Lovel privately, Lovel focused on his rates and told Barnaby that he could discuss a contract with him after the banquet. While that conversation was happening, Grubby and [[Fax Faertrin|Fax]] went to the refreshment table, when Fax noticed a presence approaching him from behind, he and Grubby turned to find Grubby's brother, Craigug, informing Fax that Fax was in custody and to come with him. Craigug saw Grubby, and his eyes went wide.
+
+## Tags
+___
+[[Pathways]] 

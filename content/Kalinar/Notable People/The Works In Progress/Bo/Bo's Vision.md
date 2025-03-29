@@ -1,0 +1,4 @@
+---
+aliases: [vision]
+---
+Bo sees a vision in which the blanket he is using pins him to the deck where he is laying, and his patron appears before him in a form he does not recognize. His patron tells him that Bo is dishonoring him by continuing with his companions against the Blight. Bo's patron has struck a deal with the Blight, and believes they deserve to be worshiped. He tells Bo that he expects him to stop hindering the Blight and threatens to cut him off from his powers if he does not. He tells Bo that he has the power to cause him to go mad and even to end him if he does not abandon his companions. Bo's patron strangles him with his sheets until he is startled awake.

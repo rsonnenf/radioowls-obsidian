@@ -1,0 +1,1 @@
+Once per day, you may spend an action to activate the Quarterstaff of All Sight. Doing so allows you to look through solid objects of a thickness of up to 5 feet to see what is on the other side.
